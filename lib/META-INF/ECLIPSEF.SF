@@ -1,0 +1,330 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: vWMd6mMu++mOcDlzssd239umKPU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: y8dnJVyBfSTXIeu2H4cxmO5FDbw=
+
+Name: javax/xml/bind/annotation/XmlList.class
+SHA1-Digest: KKbqUMNEKMxrVUxJbAEFeuMtCyc=
+
+Name: javax/xml/bind/ValidationEventLocator.class
+SHA1-Digest: PRT646x+kM2O8x/mIhvjjwcZbXg=
+
+Name: javax/xml/bind/Marshaller.class
+SHA1-Digest: gWc7UIJUXmLdKVrkTL3wHnRIs3w=
+
+Name: javax/xml/bind/GetPropertyAction.class
+SHA1-Digest: tDk2cM5zixP3s3XKvvUj3CuCRVM=
+
+Name: javax/xml/bind/ValidationEvent.class
+SHA1-Digest: HjvC+QLxm/9hEQDDSbjA+t5pnXs=
+
+Name: javax/xml/bind/annotation/adapters/XmlAdapter.class
+SHA1-Digest: vVfpiclNaM5/K4bvKKBi29MiX1k=
+
+Name: javax/xml/bind/util/JAXBResult.class
+SHA1-Digest: BxMc+6AlZ1ObjtNsjG5VoksSZaE=
+
+Name: javax/xml/bind/Messages.class
+SHA1-Digest: gM6yp9eCG8Ig2rD8X9nJaPpLlOo=
+
+Name: javax/xml/bind/annotation/XmlSchemaType.class
+SHA1-Digest: bc4XX+Yc/OALqOAfxzDBRBmoMW8=
+
+Name: javax/xml/bind/annotation/XmlAccessType.class
+SHA1-Digest: dwr9Y5qpZULANDicS76bG6smelQ=
+
+Name: javax/xml/bind/annotation/XmlEnumValue.class
+SHA1-Digest: pib0EBVO7zD0/7QE4SgGW0sUa2g=
+
+Name: javax/xml/bind/util/Messages.class
+SHA1-Digest: kWkQFbmUc8O5DS9CpBdSa/qvhc4=
+
+Name: javax/xml/bind/annotation/XmlEnum.class
+SHA1-Digest: S7RNnlzxEdY3e3J+FA5B7DNfVAw=
+
+Name: javax/xml/bind/Element.class
+SHA1-Digest: /52O1L2IkT0uIkHlKSY7tuJVzwc=
+
+Name: javax/xml/bind/annotation/XmlElement.class
+SHA1-Digest: TM3UHvmKsXFY82sAn0NzQFXcz9w=
+
+Name: javax/xml/bind/Binder.class
+SHA1-Digest: og9pXYdRrD7gxUiretk2KJKPKb4=
+
+Name: javax/xml/bind/annotation/XmlAccessorOrder.class
+SHA1-Digest: rgH1cFX0dmm56iVEqvYzD6wqjD4=
+
+Name: javax/xml/bind/Validator.class
+SHA1-Digest: TOn/uGNzrKAC6nQyjJ5RmC92zeY=
+
+Name: javax/xml/bind/annotation/XmlTransient.class
+SHA1-Digest: F9wcLUAvndN1OtYnc0HueWbpadc=
+
+Name: javax/xml/bind/helpers/ValidationEventImpl.class
+SHA1-Digest: O1No323rIzE694lPK7kuO1cdzds=
+
+Name: javax/xml/bind/annotation/XmlAccessorType.class
+SHA1-Digest: kduwqj9xeoVX+V46VhjiA/XB4vk=
+
+Name: javax/xml/bind/DatatypeConverterImpl.class
+SHA1-Digest: HYYJtU/e+3N3vZ59Wji8FQTiRlY=
+
+Name: javax/xml/bind/DatatypeConverterInterface.class
+SHA1-Digest: Y5MtzEDQ3bAon+znlA2s1fHG9wE=
+
+Name: javax/xml/bind/annotation/adapters/HexBinaryAdapter.class
+SHA1-Digest: qWnNn6lln/hE0sbmsx9n/VrvdPg=
+
+Name: javax/xml/bind/annotation/XmlNsForm.class
+SHA1-Digest: yi3wI0Z/VZKPRu5v1scg7OEX2dg=
+
+Name: javax/xml/bind/Unmarshaller$Listener.class
+SHA1-Digest: 4fSeR45uVG/GCwjgjhNBc+Lm9jM=
+
+Name: javax/xml/bind/annotation/XmlAnyElement.class
+SHA1-Digest: EozvUDM9ljJ9fw+CQYfqJxE4pSI=
+
+Name: javax/xml/bind/annotation/adapters/XmlJavaTypeAdapters.class
+SHA1-Digest: BBRmUPKC83jCWzd9V/8T8e3hBEI=
+
+Name: javax/xml/bind/annotation/XmlElementRef$DEFAULT.class
+SHA1-Digest: de9+aNyrdKm5RJtNpr3eU6xM8Eo=
+
+Name: javax/xml/bind/JAXBContext.class
+SHA1-Digest: uKwLyc37YMbFs3jH8+aEBaXCkzs=
+
+Name: javax/xml/bind/annotation/XmlType$DEFAULT.class
+SHA1-Digest: tKKctd6coRVkiAuZW6VT4vCajPc=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: qMrjap3vOVibWRfDjU5bVVrsRqM=
+
+Name: javax/xml/bind/MarshalException.class
+SHA1-Digest: o5sXY75TIN+A/56l9Er4JoTfRxI=
+
+Name: javax/xml/bind/annotation/XmlRegistry.class
+SHA1-Digest: /bgKTsl4hiXAP7ns1vygeWnaM1M=
+
+Name: javax/xml/bind/DataBindingException.class
+SHA1-Digest: 1H5kQ427LBaPf9vZVsLkC3xfBBo=
+
+Name: javax/xml/bind/Unmarshaller.class
+SHA1-Digest: 6nHFIiUzCJV0gYSMRUbMCHJVmlo=
+
+Name: javax/xml/bind/util/JAXBSource$1.class
+SHA1-Digest: vYPs74c7Kk9mXbbHSlSCTNOZUrg=
+
+Name: javax/xml/bind/annotation/XmlElementDecl$GLOBAL.class
+SHA1-Digest: p4zJmY7M/yBQtucCfDBfLYxQqqo=
+
+Name: javax/xml/bind/helpers/Messages.properties
+SHA1-Digest: N5ixkPuEXMIHLdiZ50R+5w00C+Y=
+
+Name: javax/xml/bind/annotation/XmlSeeAlso.class
+SHA1-Digest: saTiRhYBtblXOoMtiZnnEU/MftA=
+
+Name: javax/xml/bind/annotation/XmlRootElement.class
+SHA1-Digest: nYghltr/KXZqMHybtoVOt27vGj4=
+
+Name: about.html
+SHA1-Digest: KT76QwmBqnpCCsT6aaAXOrHkIkc=
+
+Name: javax/xml/bind/SchemaOutputResolver.class
+SHA1-Digest: O870sRP5W2h5v/vnnNVN8SujIDM=
+
+Name: javax/xml/bind/JAXBException.class
+SHA1-Digest: YSktjua9q553JKdgdtIUizFh3hE=
+
+Name: javax/xml/bind/annotation/XmlElementDecl.class
+SHA1-Digest: segJyEbbVjfRnb3V+byzLxiXLM0=
+
+Name: javax/xml/bind/ParseConversionEvent.class
+SHA1-Digest: aw3n0iol4Ly+GGTliAz+Cq9MFmo=
+
+Name: javax/xml/bind/annotation/adapters/CollapsedStringAdapter.class
+SHA1-Digest: nJVMVxHw1yeBSiF4mNtiPDoljqE=
+
+Name: javax/xml/bind/TypeConstraintException.class
+SHA1-Digest: pEdAjD/V0EJXv73fDZc7vqjMk+w=
+
+Name: javax/xml/bind/DatatypeConverter.class
+SHA1-Digest: hwandHbSyJP9lt/VhypLtiBi9n8=
+
+Name: javax/xml/bind/helpers/ParseConversionEventImpl.class
+SHA1-Digest: QqnNIhB9rHQfzbWw9Ko2TCYRv9k=
+
+Name: javax/xml/bind/Marshaller$Listener.class
+SHA1-Digest: UShg9MBB/qvQRsPc3iIxn/N9YJ8=
+
+Name: javax/xml/bind/helpers/ValidationEventLocatorImpl.class
+SHA1-Digest: i5ANfWvuHJWpiDOe3XpzHQL8KZM=
+
+Name: javax/xml/bind/JAXB$Cache.class
+SHA1-Digest: Z9gpG8D+ov3ZDQ8xQSiNETRdUws=
+
+Name: javax/xml/bind/annotation/XmlSchemaTypes.class
+SHA1-Digest: MgwPGeWVUXbcUBMFZ8zhabiG9Ig=
+
+Name: javax/xml/bind/annotation/XmlElementRefs.class
+SHA1-Digest: sfuDixkoCyxzg6QJi6A7Z96kits=
+
+Name: javax/xml/bind/util/JAXBSource.class
+SHA1-Digest: cnDo8Kh6jCGPb40BdFDQEtU/8YM=
+
+Name: javax/xml/bind/attachment/AttachmentMarshaller.class
+SHA1-Digest: uVanBVeX1MlCXpEMxbK+RHbYlwY=
+
+Name: javax/xml/bind/annotation/XmlElementRef.class
+SHA1-Digest: 4JpNwYNBSLGUtqVZt/bkVI5p3f8=
+
+Name: javax/xml/bind/annotation/XmlElementWrapper.class
+SHA1-Digest: htNbEBHlS+096vmVyyq927a9pQ0=
+
+Name: javax/xml/bind/annotation/XmlElements.class
+SHA1-Digest: AH5QEp9Y2IxRH/Q4b0Qiq5DE0Pk=
+
+Name: javax/xml/bind/annotation/W3CDomHandler.class
+SHA1-Digest: b398/iry3a5lK9ifRZWbwGOe14w=
+
+Name: javax/xml/bind/annotation/XmlType.class
+SHA1-Digest: g4TIcjnhQMAhxtE6xxq+zx6f05o=
+
+Name: javax/xml/bind/annotation/XmlID.class
+SHA1-Digest: Lmc3berqt5zxEXISDuQ23KvUvJo=
+
+Name: javax/xml/bind/WhiteSpaceProcessor.class
+SHA1-Digest: sMn0ey265/s1zbBoBOS6IhUqRDA=
+
+Name: javax/xml/bind/annotation/XmlAttachmentRef.class
+SHA1-Digest: jKnqzUyH5tMJD4C5DYvhPfe7J2s=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/xml/bind/annotation/XmlInlineBinaryData.class
+SHA1-Digest: 9NfHjUjMcNTAIHRZsLdBALFwb6g=
+
+Name: javax/xml/bind/ContextFinder$1.class
+SHA1-Digest: 7FTIy0gfZ9zGyjlbFWJOt7tFVkI=
+
+Name: javax/xml/bind/helpers/AbstractUnmarshallerImpl.class
+SHA1-Digest: SI1Ke03e7sw5OCGGC+Ur2IaBZLc=
+
+Name: javax/xml/bind/attachment/AttachmentUnmarshaller.class
+SHA1-Digest: CHhZ4nvpuU07nNcL8y4AuEKSi40=
+
+Name: javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter$DEFAULT.cl
+ ass
+SHA1-Digest: AInd2yzXyhYS3RWFj1rCxVwWko8=
+
+Name: javax/xml/bind/annotation/DomHandler.class
+SHA1-Digest: PwxheMX9lWSMTZnXtXKZjZFzNjM=
+
+Name: javax/xml/bind/ValidationEventHandler.class
+SHA1-Digest: KhWJzbfCNRXRgcPdzVlTPbM3450=
+
+Name: javax/xml/bind/JAXBIntrospector.class
+SHA1-Digest: cY9UXa2sm8AsfmF7oZlHl9TjYuk=
+
+Name: javax/xml/bind/UnmarshallerHandler.class
+SHA1-Digest: ATvtDzrjjiVKK+qWJa8UsX/yQ0c=
+
+Name: javax/xml/bind/util/ValidationEventCollector.class
+SHA1-Digest: EL4dZ7ALuRomezajYj+bi3+k3NE=
+
+Name: javax/xml/bind/PrintConversionEvent.class
+SHA1-Digest: NBRZhVSTALCZUQ4yFU2LtvKJhoA=
+
+Name: javax/xml/bind/annotation/XmlSchema.class
+SHA1-Digest: 3u8yLR+HSbinLPAAg9kz10wJQpk=
+
+Name: javax/xml/bind/annotation/adapters/NormalizedStringAdapter.class
+SHA1-Digest: jP22YZ5EofAxt+JsQ7W80TBLdMM=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: S6qQb+bhkFINJTMGQZ97Kl8f6S4=
+
+Name: javax/xml/bind/util/Messages.properties
+SHA1-Digest: +/yiWJtZABR99RamsyvhuPfZkq4=
+
+Name: javax/xml/bind/annotation/XmlIDREF.class
+SHA1-Digest: 8VXy+8AQZK8JerdXe8JKaTvD8SQ=
+
+Name: javax/xml/bind/helpers/PrintConversionEventImpl.class
+SHA1-Digest: kGH9336Q+DAXQHOlCUgVpTc79+Q=
+
+Name: javax/xml/bind/JAXB.class
+SHA1-Digest: sJTEPkB1v58JuOSkjWIyu5AUD2o=
+
+Name: javax/xml/bind/annotation/XmlAttribute.class
+SHA1-Digest: oarmLF1bhz506EaUdz+BEllWS1M=
+
+Name: javax/xml/bind/JAXBElement$GlobalScope.class
+SHA1-Digest: bRAIYSknf/LU12Gv0DfG2ZWo8nc=
+
+Name: javax/xml/bind/helpers/AbstractMarshallerImpl.class
+SHA1-Digest: I+gWOdn72/lSEd7Iqp2i0MR5e64=
+
+Name: javax/xml/bind/annotation/XmlSchemaType$DEFAULT.class
+SHA1-Digest: /vnZHPEmdaFqGUaF4qrR8Q4YSW8=
+
+Name: javax/xml/bind/NotIdentifiableEvent.class
+SHA1-Digest: sC20pXbixlzHbxscgfnGxcjKxUM=
+
+Name: javax/xml/bind/ContextFinder.class
+SHA1-Digest: XWHZouMM+l7hnLOYUOSRkpx3TjQ=
+
+Name: javax/xml/bind/helpers/Messages.class
+SHA1-Digest: FT6xGvd7msHEBoTbU/ZrloODU2w=
+
+Name: javax/xml/bind/PropertyException.class
+SHA1-Digest: cgdvrRb+Ht4NVnpKvsCvTKlojC0=
+
+Name: javax/xml/bind/annotation/XmlValue.class
+SHA1-Digest: qB0uVz9plbp2A1daU7KMYHN/7Tc=
+
+Name: javax/xml/bind/JAXBElement.class
+SHA1-Digest: EcR4sHN1zkPbzHP0oADARldY6LA=
+
+Name: javax/xml/bind/helpers/NotIdentifiableEventImpl.class
+SHA1-Digest: 5jZUyKNBWDrxgVcXnAlK6DK16ws=
+
+Name: javax/xml/bind/annotation/XmlNs.class
+SHA1-Digest: AlCd4X6V3jBtqdo3dyD+xEPMxwg=
+
+Name: javax/xml/bind/helpers/DefaultValidationEventHandler.class
+SHA1-Digest: v4uonPGsF9/JIkYn6+21CdlPcfQ=
+
+Name: javax/xml/bind/annotation/XmlElement$DEFAULT.class
+SHA1-Digest: wB9Hp+pbE5jHlanOn+hqXCJtp8A=
+
+Name: javax/xml/bind/annotation/XmlMixed.class
+SHA1-Digest: AKD2DCO4dpNDDAawybPWXRxDhgo=
+
+Name: javax/xml/bind/DatatypeConverterImpl$CalendarFormatter.class
+SHA1-Digest: CtngbaSNsNxEtN4p3yB+pI86064=
+
+Name: javax/xml/bind/annotation/XmlMimeType.class
+SHA1-Digest: 8ZhOpBomIMKymzlXaf4ARppQyew=
+
+Name: javax/xml/bind/annotation/adapters/XmlJavaTypeAdapter.class
+SHA1-Digest: ZYJT9lkQGWbCq/mDq6jrQ6EoffA=
+
+Name: javax/xml/bind/annotation/XmlAnyAttribute.class
+SHA1-Digest: ZdIm2GM5jhgbbGzsygjdoMhBb7U=
+
+Name: javax/xml/bind/Messages.properties
+SHA1-Digest: WgGI0lpJWGO7N1iw3heaI3tpjxo=
+
+Name: javax/xml/bind/UnmarshalException.class
+SHA1-Digest: mAVYnLHxKEHsvY2X8/MPMgLSSHI=
+
+Name: javax/xml/bind/JAXBPermission.class
+SHA1-Digest: AVOOrj7Q1xGcbk5gbkVqt4QVLXA=
+
+Name: javax/xml/bind/annotation/XmlAccessOrder.class
+SHA1-Digest: vnu/m86JxXrCpZu0ydsFfUP5QLg=
+
+Name: javax/xml/bind/ValidationException.class
+SHA1-Digest: B7eiDk0/NKuwKlaZMKSeHCjYoUc=
+
